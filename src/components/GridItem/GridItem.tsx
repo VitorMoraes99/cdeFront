@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import * as C from "./styles";
 import { FaTrash, FaEdit } from "react-icons/fa";
-import { ModalEditProduct } from "../ModalProduct";
+import { ModalEditProduct } from "../ModalProduct/ModalProduct";
 
 interface Product {
   id: number;
