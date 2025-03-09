@@ -4,11 +4,11 @@
 
 Node.js Git Configuração do Frontend
 
-Clone o repositório: bash Copiar código git clone https://github.com/VitorMoraes99/estoqueFront.git
+Clone o repositório: bash Copiar código git clone https://github.com/VitorMoraes99/cdeFront.git
 Navegue até o diretório do projeto: bash Copiar código cd estoqueFront
 Instale as dependências: bash Copiar código npm install
 Inicie o servidor de desenvolvimento: bash Copiar código npm run dev Configuração do Backend
-Clone o repositório: bash Copiar código git clone https://github.com/VitorMoraes99/estoqueBack.git
+Clone o repositório: bash Copiar código git clone https://github.com/VitorMoraes99/cdeFront.git
 Navegue até o diretório do projeto: bash Copiar código cd estoqueBack
 Instale as dependências: bash Copiar código npm install
 Configure as variáveis de ambiente no arquivo .env: env Copiar código DB_HOST=localhost DB_USER=seu_usuario DB_PASS=sua_senha DB_NAME=estoque JWT_SECRET=sua_chave_secreta
